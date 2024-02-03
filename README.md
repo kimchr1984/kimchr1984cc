@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/kimchri1984/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kimchri1984/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Azure Compute and Networking](https://github.com/kimchri1984/azure_compute-networking)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kimchri1984/azure-network-protocols)
+  - [Azure Compute and Networking](https://github.com/kimchri1984/azure-compute-networking)
+  - [VPN setup and usage](https://github.com/kimchri1984/vpn-setup-usage)
 
 <h2>🤳Connect with me:</h2>
 
