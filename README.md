@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Azure Compute and Networking](https://github.com/kimchri1984/azure-compute-networking)
   - [VPN setup and usage](https://github.com/kimchri1984/vpn-setup-usage)
+  - [Active Directory](https://github.com/kimchri1984/active_directory)
 
 <h2>🤳Connect with me:</h2>
 
