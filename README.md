@@ -12,7 +12,8 @@
   - [Active Directory](https://github.com/kimchri1984/active_directory)
 
 <h2>🤳Connect with me:</h2>
-
+1. Go to portal.azure.com
+  *Sign up for azure
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
