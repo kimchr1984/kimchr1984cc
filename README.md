@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo">
 - <b>osTicket (Help Desk Ticketing System)</b>
-  -  [osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/kimchri1984/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/kimchri1984/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
+  -[osTicket: Post-Installation Configuration](https://github.com/kimchri1984/post-install-config)
+  -[osTicket: Ticket Lifecycle Examples](https://github.com/kimchri1984/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Azure Compute and Networking](https://github.com/kimchri1984/azure-compute-networking)
   - [VPN setup and usage](https://github.com/kimchri1984/vpn-setup-usage)
