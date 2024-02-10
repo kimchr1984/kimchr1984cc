@@ -2,7 +2,7 @@
 1. Go to portal.azure.com
     *Sign up for azure
 <h2>👨‍💻 Information Technology Projects:</h2>
-
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo">
 - <b>osTicket (Help Desk Ticketing System)</b>
   -  [osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kimchri1984/post-install-config)
