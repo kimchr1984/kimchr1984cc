@@ -4,6 +4,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo">
 - <b>osTicket (Help Desk Ticketing System)</b>
   -  [osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
+-1. Go to portal.azure.com
   - [osTicket: Post-Installation Configuration](https://github.com/kimchri1984/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kimchri1984/ticket-lifecycle)
 - <b>Microsoft Azure</b>
