@@ -1,5 +1,6 @@
 <h1>Hi, I'm Kimese, an <a href="https://www.linkedin.com/in/kimese-christian-869a83202/">IT Professional</a>☺</h1>
-
+1. Go to portal.azure.com
+    *Sign up for azure
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
