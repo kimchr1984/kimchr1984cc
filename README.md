@@ -2,7 +2,7 @@
 
 
 
-- <b>[osTicket (Help Desk Ticketing System)]</b>
+- [osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
   - [osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
   -[osTicket: Post-Installation Configuration](https://github.com/kimchri1984/post-install-config)
   -[osTicket: Ticket Lifecycle Examples](https://github.com/kimchri1984/ticket-lifecycle)
