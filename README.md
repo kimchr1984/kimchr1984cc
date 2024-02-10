@@ -1,10 +1,11 @@
 <h1>Hi, I'm Kimese, an <a href="https://www.linkedin.com/in/kimese-christian-869a83202/">IT Professional</a>☺</h1>
-1. Go to portal.azure.com
-    *Sign up for azure
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo">
 - <b>osTicket (Help Desk Ticketing System)</b>
   -  [osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
+  <1. Go to portal.azure.com*
+     *Sign up for Azure>
   - [osTicket: Post-Installation Configuration](https://github.com/kimchri1984/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kimchri1984/ticket-lifecycle)
 - <b>Microsoft Azure</b>
