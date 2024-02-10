@@ -3,7 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
+  - [osTicket: Prerequisites and Installation]1. GO to portal.azure.com
+  - *Sign up for Azure(https://github.com/kimchri1984osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kimchri1984/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kimchri1984/ticket-lifecycle)
 - <b>Microsoft Azure</b>
