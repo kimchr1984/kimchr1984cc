@@ -2,10 +2,8 @@
 
 
 [osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
--[osTicket: Post-Installation Configuration](https://github.com/kimchri1984/post-install-config)
--[osTicket: Ticket Lifecycle Examples](https://github.com/kimchri1984/ticket-lifecycle)
- - [Microsoft Azure](https://github.com/kimchri1984/azure){
- - [Azure Compute and Networking](https://github.com/kimchri1984/azure-compute-networking){
+ - [Microsoft Azure](https://github.com/kimchri1984/azure)
+ - [Azure Compute and Networking](https://github.com/kimchri1984/azure-compute-networking)
   - [VPN setup and usage](https://github.com/kimchri1984/vpn-setup-usage)
   - [Active Directory](https://github.com/kimchri1984/active_directory)
 
