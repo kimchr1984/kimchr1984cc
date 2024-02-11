@@ -1,7 +1,6 @@
 <h1>Hi, I'm Kimese, an <a href="https://www.linkedin.com/in/kimese-christian-869a83202/">IT Professional</a>☺</h1>
 
 
-- [osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
 -[osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
 -[osTicket: Post-Installation Configuration](https://github.com/kimchri1984/post-install-config)
 -[osTicket: Ticket Lifecycle Examples](https://github.com/kimchri1984/ticket-lifecycle)
