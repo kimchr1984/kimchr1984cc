@@ -1,7 +1,7 @@
 <h1>Hi, I'm Kimese, an <a href="https://www.linkedin.com/in/kimese-christian-869a83202/">IT Professional</a>☺</h1>
 
 
--[osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs)
+-[osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs) <!--1. Go to portal.azure.com-->
  - [Microsoft Azure](https://github.com/kimchri1984/azure)
  - [Azure Compute and Networking](https://github.com/kimchri1984/azure-compute-networking)
   - [VPN setup and usage](https://github.com/kimchri1984/vpn-setup-usage)
