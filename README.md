@@ -1,11 +1,15 @@
 <h1>Hi, I'm Kimese, an <a href="https://www.linkedin.com/in/kimese-christian-869a83202/">IT Professional</a>☺</h1>
 
 
--[osTicket: Prerequisites and Installation](https://github.com/kimchri1984osticket-prereqs) <!--1. Go to portal.azure.com-->
- - [Microsoft Azure](https://github.com/kimchri1984/azure)
- - [Azure Compute and Networking](https://github.com/kimchri1984/azure-compute-networking)
-  - [VPN setup and usage](https://github.com/kimchri1984/vpn-setup-usage)
-  - [Active Directory](https://github.com/kimchri1984/active_directory)
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/kimchr1984cc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/kimchr1984cc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/kimchr1984cc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kimchrcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kimchrcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
  
